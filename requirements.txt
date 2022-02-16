@@ -1,0 +1,10 @@
+Django
+psycopg2
+djoser
+drf-yasg
+django-filter
+social-auth-app-django
+
+
+
+
